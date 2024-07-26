@@ -3,7 +3,7 @@
 <div>
 👨‍💻 <samp> - Studying Computer Science at PUC</samp> 
 
-👾 <samp> - Currently focused on web development</samp>
+👾 <samp> - Currently focused on mobile development</samp>
 </div>
 
 <br>
