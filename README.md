@@ -4,6 +4,8 @@
 👨‍💻 <samp> - Studying Computer Science at PUC</samp> 
 
 👾 <samp> - Currently focused on mobile development</samp>
+
+📚 <samp> - Learning to use qt creator</samp>
 </div>
 
 <br>
