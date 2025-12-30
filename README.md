@@ -5,7 +5,7 @@
 
 👾 <samp> - Currently focused on mobile development</samp>
 
-📚 <samp> - Learning to use qt creator</samp>
+📚 <samp> - Learning Dart</samp>
 </div>
 
 <br>
